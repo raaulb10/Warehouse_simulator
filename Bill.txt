@@ -1,0 +1,7 @@
+19:31:15 2021/06/01
+
+Order Number:	 4
+Product:	 iMacPro
+Quantity: 	1
+Name:		Borbei Raul
+Address:	Cluj Napoca, nr 3, ap 6
